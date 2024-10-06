@@ -616,6 +616,13 @@
     }
   },
   {
+    "celestial_revelation": {
+      "normal": "armor/plate_mail",
+      "uber": "armor/plate_mail",
+      "ultra": "armor/plate_mail"
+    }
+  },
+  {
     "rockfleece": {
       "normal": "armor/field_plate",
       "uber": "armor/field_plate",
